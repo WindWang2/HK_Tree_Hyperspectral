@@ -1,5 +1,5 @@
 * Codes for Hong Kong tree Characterizing and Classifying
-**Characterizing and Classifying Urban Tree Species using Bi-monthly Terrestrial Hyperspectral Images: A Case Study in Hong Kong**
+*Characterizing and Classifying Urban Tree Species using Bi-monthly Terrestrial Hyperspectral Images: A Case Study in Hong Kong*
 ** `tree_clas_val.py`
 - including all the implementations of this project, divided by the `if main` structure.
 
